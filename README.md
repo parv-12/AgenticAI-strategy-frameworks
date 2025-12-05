@@ -1,6 +1,6 @@
 # Strategic intelligence
 
-This repo contains the work around the topic 'strategic intelligence'. The core idea is to develop LLM agents and RAG pipelines to create a framework which analysis a topic and outputs various strategic models for the topic. Some examples of strategic models are:
+This repo contains the work around the topic 'strategic intelligence'. The core idea is to develop LLM agents and RAG pipelines to create a framework which analyze a topic and outputs various strategic models for the topic. Some examples of strategic models are:
 1. SWOT analysis
 2. PR/FAQ document
 3. 6 pager
@@ -27,13 +27,5 @@ streamlit run Home.py
 2. qdrant DB is running on 6333
 3. OPENAI API KEY should be available
 
-# Maintainers
 
-- Abhinav Nirmal (abhinav.nirmal@siemens.com)
-- Rohit Karanth (rohit.karanth@siemens.com)
-
-# Contributers
-
-- Rohit Karanth
-- Abhinav Nirmal
 - Parv Jain# stratergic-planning
