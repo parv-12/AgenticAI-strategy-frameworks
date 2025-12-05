@@ -1,0 +1,12 @@
+streamlit
+pandas
+tabulate
+glob2
+openpyxl
+streamlit-scrollable-textbox
+docx
+docxtpl
+embedchain[dataloaders]
+google.generativeai
+pymupdf
+frontend
