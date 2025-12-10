@@ -6,7 +6,7 @@ This repo contains the work around the topic 'strategic intelligence'. The core 
 3. 6 pager
 
 # Components
-1. RAG pipelines - IIL qdrant based RAG pipelines are used in the repo. https://code.siemens.com/indutrial-intelligence-layer/qdrant_service dev-cipla branch
+1. RAG pipelines - IIL qdrant based RAG pipelines are used.
 2. Text extraction pipeline - Langchain PDF miner is used to extract text from the different strategic and business documents
 3. Streamlit app - To query the databases and orchestrate workflows for creating different strategic model outputs. Also provide a user interface to explore different topics
 
@@ -26,6 +26,3 @@ streamlit run Home.py
 1. Qdrant service is running on localhost:7000. Refer to qdrant repo to run the qdrant service
 2. qdrant DB is running on 6333
 3. OPENAI API KEY should be available
-
-
-- Parv Jain# stratergic-planning
